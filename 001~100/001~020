@@ -1,0 +1,63 @@
+'''
+#001
+print('Hello World')
+#002
+print("Mary's cosmetics")
+#003
+print('신씨가 소리질렀다. "도둑이야".')
+#004
+print('C:\Windows')
+#005 
+print("안녕하세요.\n만나서\t\t반갑습니다.")
+#006
+print("오늘은","일요일")
+#007
+print('naver','kakao','sk','samsung',sep=';')
+#008
+print('naver','kakao','samsung',sep='/')
+#009
+print("first");print("second")
+print('first', end='');print('second')
+#010
+print(5/3)
+'''
+#011
+samsung=50000
+total_value=samsung*10
+print(total_value)
+#012
+market_capital=298000000000000
+current_price=50000
+PER=15.79
+print(market_capital, type(market_capital))
+print(current_price, type(current_price))
+print(PER, type(PER))
+#013
+s='hello'
+t='python'
+print(s+'!',t)
+#014
+print(2+2*3)
+#015
+a=128
+print(type(a))
+a='132'
+print(type(a))
+#016
+num_str='720' 
+num_int=int(num_str)
+print(num_int, type(num_int))
+#017
+num=100
+str_num=str(num)
+print(str_num, type(str_num))
+#018
+a='15.79' 
+float_a=float(a)
+print(float_a, type(float_a))
+#019
+year='2020'
+int_year=int(year)
+print(int_year-1)
+print(int_year-2)
+print(int_year-3)
