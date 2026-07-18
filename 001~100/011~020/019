@@ -5,4 +5,3 @@ year_float=float(year)
 print(year_float-1)
 print(year_float-2)
 print(year_float-3)
-
