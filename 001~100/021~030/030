@@ -2,3 +2,5 @@
 string = 'abcd'
 string.replace('b', 'B')
 print(string)
+#replace를 한 것을 string에 저장 안함
+
